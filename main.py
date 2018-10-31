@@ -1,3 +1,3 @@
-print("hello-world")
-print("hello_world die 2.")
-print("hi_")
+print("hello world")
+print("hello world die 2.")
+print("hi")
